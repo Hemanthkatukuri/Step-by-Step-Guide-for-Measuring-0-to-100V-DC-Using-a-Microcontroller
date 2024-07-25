@@ -1,4 +1,4 @@
-Mains #include <xc.h>
+ #include <xc.h>
 // Configuration bits
 #pragma config FOSC = INTRC_NOCLKOUT // Oscillator Selection bits
 #pragma config WDTE = OFF		// Watchdog Timer Enable bit 
